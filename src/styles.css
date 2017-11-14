@@ -1,1 +1,12 @@
-/* You can add global styles to this file, and also import other style files */
+.card{
+margin-bottom:2em;
+}
+
+.fb-bg-color{
+  /* background-color: rgb(66,103,178); */
+}
+
+.ig-bg-color{
+  background-color: rgb(250,250,250);
+}
+
