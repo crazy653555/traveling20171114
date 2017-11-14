@@ -1,0 +1,13 @@
+img{
+  width:50%;
+}
+
+/* 圖示 */
+.icon {
+  position: absolute;
+}
+
+/* 圖示後的文字 */
+.icon-span{
+  margin-left: 1.3em;
+}
