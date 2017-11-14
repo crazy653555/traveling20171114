@@ -30,9 +30,9 @@ export class IgComponent implements OnInit {
       name: "Nekoko",
       content:
         "熱愛攝影的鳥媽咪，紀錄著兩隻肉桂小太陽『芒果Mango』、『布丁Pudding』和一隻藍化鳳梨小太陽『藍莓 Blueberry』的蹦蹦跳跳鳥日子～╰( ◕ ◇ ◕ )╯",
-      link: "https://www.facebook.com/DelightedParrots/",
+      link: "https://www.instagram.com/nekoko/",
       like: "114",
-      img: "./assets/img/gdm-ig.png"
+      img: "./assets/img/nokoko-ig.png"
     },
     {
       id: 4,
@@ -66,6 +66,14 @@ export class IgComponent implements OnInit {
       link: "https://www.instagram.com/eason653555/",
       like: "9,999,999",
       img: "./assets/img/eason-ig.png"
+    },
+    {
+      id: 6,
+      name: "雛鳥",
+      content: "我還沒斷奶",
+      link: "https://www.instagram.com/zhaorong1999/",
+      like: "87",
+      img: "./assets/img/zhaorong1999-ig.png"
     }
   ];
 
