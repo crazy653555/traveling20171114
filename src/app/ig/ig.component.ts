@@ -28,8 +28,7 @@ export class IgComponent implements OnInit {
     {
       id: 3,
       name: "Nekoko",
-      content:
-        "熱愛攝影的鳥媽咪，紀錄著兩隻肉桂小太陽『芒果Mango』、『布丁Pudding』和一隻藍化鳳梨小太陽『藍莓 Blueberry』的蹦蹦跳跳鳥日子～╰( ◕ ◇ ◕ )╯",
+      content:"貓尾巴 有5個寶貝蛋(拉吉歐&豆子姐弟)的鳥奴媽媽 ヽ(*´∀｀)ノ 嗜好是吸孩子們🐥的肚肚香(?) 還有潛水💦跟四處趴趴走😍 XDDD 過著常被朋友問到底有沒有在上班的生活(喂~",
       link: "https://www.instagram.com/nekoko/",
       like: "114",
       img: "./assets/img/nokoko-ig.png"
